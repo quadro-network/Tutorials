@@ -1,4 +1,3 @@
-## NodesRunner Communities
 
 ### About
 
