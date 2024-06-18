@@ -4,7 +4,7 @@
 <a href="https://Quadro.com" target="_blank">Visit our website <img src="https://github.com/thenhthang/Quadro/blob/main/content/logo.jpg?raw=true" width="30"/></a>
 </p>
 <p align="center">
-  <img height="100" height="auto" src="https://github.com/thenhthang/Quadro/blob/main/content/avail.png?raw=true">
+  <img height="100" height="auto" src="https://github.com/quadro-network/Tutorials/blob/main/content/avail.png">
 </p>
 
 # Avial Full node
@@ -45,7 +45,7 @@ Ports used: 30333
 ### Option 1 (automatic)
 You can setup your avail validator in few minutes by using automated script below. It will prompt you to input your validator node name!
 ```
-wget -O avail-auto.sh https://raw.githubusercontent.com/thenhthang/Quadro/main/Avail/avail-auto.sh && chmod +x avail-auto.sh && ./avail-auto.sh
+wget -O avail-auto.sh https://raw.githubusercontent.com/quadro-network/Tutorials/main/Avail/avail-auto.sh && chmod +x avail-auto.sh && ./avail-auto.sh
 ```
 
 ### Option 2 (manual)
