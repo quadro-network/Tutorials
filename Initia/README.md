@@ -6,6 +6,7 @@
 <p align="center">
   <img height="100" height="auto" src="https://github.com/quadro-network/Tutorials/blob/main/content/initialogo.png">
 </p>
+
 # Initia validator
 
 Official documentation:
