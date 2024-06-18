@@ -1,7 +1,7 @@
 <p style="font-size:14px" align="right">
-<a href="https://t.me/Quadro" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
-<a href="https://discord.gg/dvNSrwyU" target="_blank">Join our discord <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="30"/></a>
-<a href="https://Quadro.com" target="_blank">Visit our website <img src="https://github.com/thenhthang/Quadro/blob/main/content/logo.jpg?raw=true" width="30"/></a>
+<a href="https://t.me/quadro_network" target="_blank">Join our telegram <img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+<a href="https://discord.com/users/1225408886966714388" target="_blank">Join our discord <img src="https://user-images.githubusercontent.com/50621007/176236430-53b0f4de-41ff-41f7-92a1-4233890a90c8.png" width="30"/></a>
+<a href="https://quadro.network/" target="_blank">Visit our website <img src="https://assets.quadro.network/img/icon_min.png" width="30"/></a>
 </p>
 <p align="center">
   <img height="100" height="auto" src="https://github.com/quadro-network/Tutorials/blob/main/content/avail.png">
